@@ -1,1 +1,4 @@
 pymongo==4.2.0
+
+-e . #editable mode it means we do not need to run steup file. We just need
+     #to run requirements.txt file it by default ping the steup file.
